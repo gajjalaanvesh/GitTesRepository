@@ -1,0 +1,5 @@
+this file is to test the git commint --amend option.
+
+Edit 1 before commit
+Edit 2 after commit - we will amend this changed to the commit we already made
+Unstaged the file and added this line
